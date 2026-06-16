@@ -18,4 +18,4 @@ Ensure you have Python installed, then install the required dependencies using y
 `pip install pandas numpy seaborn statsmodels matplotlib scipy`
 
 ## Execution
-Open `multiple_regression_analysis.ipynb` in JupyterLab or VS Code and click "Run All" cells to view the entire data pipeline, from ordinal encoding and VIF calculations to statistical modeling, assumption testing, and final business insights.
+Open `multiple regression.pdf`
